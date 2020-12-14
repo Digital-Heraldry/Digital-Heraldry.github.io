@@ -21,27 +21,27 @@ people:
     - title: twitter
       url: https://twitter.com/TorstenHiltmann
 
-# - name: Philipp Schneider, M.A.
-#   pic: 2_schneider
-#   position: "Digital History<br>Humboldt University of Berlin"
-#   social:
-#     - title: link
-#       url: https://www.geschichte.hu-berlin.de/de/bereiche-und-lehrstuehle/digital-history/personen/philipp-schneider-m-a
-#     - title: twitter
-#       url: https://twitter.com/cliotex
-#     - title: github
-#       url: https://github.com/Philipp-Schneider
+- name: Philipp Schneider, M.A.
+  pic: 2_schneider
+  position: "Digital History<br>Humboldt University of Berlin"
+  social:
+    - title: link
+      url: https://www.geschichte.hu-berlin.de/de/bereiche-und-lehrstuehle/digital-history/personen/philipp-schneider-m-a
+    - title: twitter
+      url: https://twitter.com/cliotex
+    - title: github
+      url: https://github.com/Philipp-Schneider
 
-# - name: Melanie Althage, M.A.
-#   pic: 3_althage
-#   position: "Digital History<br>Humboldt University of Berlin"
-#   social:
-#     - title: link
-#       url: https://www.geschichte.hu-berlin.de/de/bereiche-und-lehrstuehle/digital-history/personen/melanie-althage-m-a
-#     - title: twitter
-#       url: https://twitter.com/codicepsfungus
-#     - title: github
-#       url: https://github.com/MelanieAlthage
+- name: Melanie Althage, M.A.
+  pic: 3_althage
+  position: "Digital History<br>Humboldt University of Berlin"
+  social:
+    - title: link
+      url: https://www.geschichte.hu-berlin.de/de/bereiche-und-lehrstuehle/digital-history/personen/melanie-althage-m-a
+    - title: twitter
+      url: https://twitter.com/codicepsfungus
+    - title: github
+      url: https://github.com/MelanieAlthage
 
 - name: Jun.-Prof. Dr. Benjamin Risse
   pic: 4_risse
@@ -62,7 +62,7 @@ social:
   - title: link
     url: https://www.geschichte.hu-berlin.de/de/bereiche-und-lehrstuehle/digital-history
   - title: github
-    url: https://github.com/Philipp-Schneider/coat-of-arms-detector
+    url: https://github.com/Digital-Heraldry
 
 # Postal address (add as many lines as necessary)
 address:
