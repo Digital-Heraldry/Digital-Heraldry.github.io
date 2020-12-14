@@ -1,3 +1,12 @@
+# Digital Heraldry Website
+Information on Project Team can be changed in `_config.yml`.
+
+Methods are stored in `_posts` and must have `category: method` in their yml-Header.
+
+Output is stored in `_posts` and must have `category: output` in their yml-Header.
+
+# Readme from original template
+
 Agency Jekyll theme
 ====================
 
