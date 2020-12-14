@@ -1,0 +1,77 @@
+#url: https://y7kim.github.io
+#url: "https://digital-heraldry.pages.cms.hu-berlin.de"
+#baseurl: "/digital-heraldry-project-website"
+url: "https://digital-heraldry.github.io/"
+baseurl: ""
+
+# Site settings
+title: Digital Heraldry
+email: heraldry.ifg@hu-berlin.de
+description: "Digital Heraldry is a research project in the field of Digital History, adopting methods from computer science to enhance research in historical studies."
+
+
+# Team names, titles and social links
+people:
+- name: Prof. Dr. Torsten Hiltmann
+  pic: 1_hiltmann
+  position: "Digital History<br>Humboldt University of Berlin"
+  social:
+    - title: link
+      url: https://www.geschichte.hu-berlin.de/de/bereiche-und-lehrstuehle/digital-history/personen/prof-dr-torsten-hiltmann
+    - title: twitter
+      url: https://twitter.com/TorstenHiltmann
+
+- name: Philipp Schneider, M.A.
+  pic: 2_schneider
+  position: "Digital History<br>Humboldt University of Berlin"
+  social:
+    - title: link
+      url: https://www.geschichte.hu-berlin.de/de/bereiche-und-lehrstuehle/digital-history/personen/philipp-schneider-m-a
+    - title: twitter
+      url: https://twitter.com/cliotex
+    - title: github
+      url: https://github.com/Philipp-Schneider
+
+- name: Melanie Althage, M.A.
+  pic: 3_althage
+  position: "Digital History<br>Humboldt University of Berlin"
+  social:
+    - title: link
+      url: https://www.geschichte.hu-berlin.de/de/bereiche-und-lehrstuehle/digital-history/personen/melanie-althage-m-a
+    - title: twitter
+      url: https://twitter.com/codicepsfungus
+    - title: github
+      url: https://github.com/MelanieAlthage
+
+- name: Jun.-Prof. Dr. Benjamin Risse
+  pic: 4_risse
+  position: "Computer Vision and Machine Learning<br>University of Münster"
+  social:
+      - title: link
+        url: https://www.uni-muenster.de/Informatik.AGRisse/people/risse.shtml
+
+- name: Sebastian Thiele, M.A.
+  pic: #4_risse
+  position: "Computer Vision and Machine Learning<br>University of Münster"
+  social:
+      - title: link
+        url: https://www.uni-muenster.de/Informatik.AGRisse/people/thiele.html
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: link
+    url: https://www.geschichte.hu-berlin.de/de/bereiche-und-lehrstuehle/digital-history
+  - title: github
+    url: https://github.com/Philipp-Schneider/coat-of-arms-detector
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Humboldt-Universität zu Berlin
+  - line: Departement of History
+  - line: University Chair for Digital History
+  - line: Unter den Linden 6
+  - line: 10099 Berlin
+
+# Build settings
+markdown: kramdown
+permalink: pretty

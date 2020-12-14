@@ -1,0 +1,14 @@
+---
+title: Outreach
+subtitle: "Collaborative Blog: Heraldica Nova"
+layout: default
+modal-id: 5
+date: 2020-07-31
+img: heraldica-nova-titlepage.png
+thumbnail: heraldica-nova-titlepage.png
+alt: image-alt
+team: Torsten Hiltmann, Melanie Althage
+category: method
+description: The collorative blog <a href="https://heraldica.hypotheses.org/">Heraldica Nova</a> aims to bring together researchers from the historical studies, heraldists and enthusiasts interested in the study of coats of arms in medieval and early modern history. It offers a platform for articles on heraldry, mainly from a cultural historical perspective, as well as resources for research, a list of publications and updates on events.
+
+---

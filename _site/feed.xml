@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Digital Heraldry</title>
+    <description>Digital Heraldry is a research project in the field of Digital History, adopting methods from computer science to enhance research in historical studies.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 05 Oct 2020 18:25:56 +0200</pubDate>
+    <lastBuildDate>Mon, 05 Oct 2020 18:25:56 +0200</lastBuildDate>
+    <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>Knowledge Engineering</title>
+        <description>&lt;!-- # Standard zur digitalen Edition und Verarbeitung heraldischer Informationen im Semantic Web wird damit entwickelt --&gt;
+
+&lt;!-- Daten können sprachunabhängig analysisert werden
+
+hierarchische conceptualisation of heraldic data erleichtert Umgang mit dessen Komplexität
+
+coats of arms are combinations of concepts -&gt; dies wird mit Ontologie abgebildet
+
+heraldic rules and conventions can be formalized
+
+-&gt; dadurch wird Umgang mit sehr großen Datenmengen möglich
+
+-&gt; neue research questions
+
+
+
+
+Modellierung von ordinaries and charges (-&gt; viellicht nicht nennen, da Fachbegriffe) --&gt;
+</description>
+        <pubDate>Tue, 04 Aug 2020 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/method/2020/08/04/knowledge-engineering/</link>
+        <guid isPermaLink="true">http://localhost:4000/method/2020/08/04/knowledge-engineering/</guid>
+        
+        
+        <category>method</category>
+        
+      </item>
+    
+      <item>
+        <title>Linked Data</title>
+        <description>
+</description>
+        <pubDate>Mon, 03 Aug 2020 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/method/2020/08/03/linked-data/</link>
+        <guid isPermaLink="true">http://localhost:4000/method/2020/08/03/linked-data/</guid>
+        
+        
+        <category>method</category>
+        
+      </item>
+    
+      <item>
+        <title>Computer Vision</title>
+        <description>
+</description>
+        <pubDate>Sun, 02 Aug 2020 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/method/2020/08/02/machine-learning-1/</link>
+        <guid isPermaLink="true">http://localhost:4000/method/2020/08/02/machine-learning-1/</guid>
+        
+        
+        <category>method</category>
+        
+      </item>
+    
+      <item>
+        <title>Natural Language Processing</title>
+        <description>&lt;!-- # Verfahren der automatischen Textanalyse zum Auffinden und Analysieren von heraldischen Informationen in Texten
+
+# darauf verweisen, dass es um Beschreibung von Wappen/Blasonierung geht --&gt;
+</description>
+        <pubDate>Sat, 01 Aug 2020 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/method/2020/08/01/machine-learning-2/</link>
+        <guid isPermaLink="true">http://localhost:4000/method/2020/08/01/machine-learning-2/</guid>
+        
+        
+        <category>method</category>
+        
+      </item>
+    
+      <item>
+        <title>Outreach</title>
+        <description>
+</description>
+        <pubDate>Fri, 31 Jul 2020 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/method/2020/07/31/outreach/</link>
+        <guid isPermaLink="true">http://localhost:4000/method/2020/07/31/outreach/</guid>
+        
+        
+        <category>method</category>
+        
+      </item>
+    
+      <item>
+        <title>Paper Dh State Of The Art</title>
+        <description>
+</description>
+        <pubDate>Wed, 01 Apr 2020 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/output/2020/04/01/paper-dh-state-of-the-art/</link>
+        <guid isPermaLink="true">http://localhost:4000/output/2020/04/01/paper-dh-state-of-the-art/</guid>
+        
+        
+        <category>output</category>
+        
+      </item>
+    
+      <item>
+        <title>Dhd Presentation</title>
+        <description>
+</description>
+        <pubDate>Sun, 01 Mar 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/output/2020/03/01/dhd-presentation/</link>
+        <guid isPermaLink="true">http://localhost:4000/output/2020/03/01/dhd-presentation/</guid>
+        
+        
+        <category>output</category>
+        
+      </item>
+    
+  </channel>
+</rss>
